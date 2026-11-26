@@ -22,18 +22,50 @@ Building **game engines**, **cloud optimization tools**, and **scalable full-sta
 ### 🚀 Featured Projects
 
 - **[Autonomous-FinOps](https://github.com/mrKESHAV2004/Autonomous-FinOps)** — AI-driven cloud cost optimization engine. Deploys Isolation Forests and LSTM time-series models to detect "zombie" resources and forecast spending from AWS billing telemetry. *(Python, TensorFlow, Flask, AWS API, Docker)*
-- **[Qualitone (QA-Platform)](https://github.com/mrKESHAV2004/QA-Platform)** — Universal test management and defect tracking platform. Features nested test suites, multi-environment execution matrices, and strict 4-Eyes QA verification across 8 RBAC roles. *(React, Vite, Node.js, Express, Supabase Postgres RLS)*
-- **[C++ / Vulkan Game Engine](https://github.com/mrKESHAV2004/Engine)** — High-performance real-time 3D renderer. Implements Vulkan render passes, command buffer allocation, scene hierarchy DAGs, and camera frustum culling. *(C++20, Vulkan API, GLSL, CMake)*
-- **[3D WebGL Portfolio Island](https://github.com/mrKESHAV2004/PORTFOLIO_MAIN)** — Gamified interactive portfolio featuring client-side WebGL navigation via Three.js, studio CRUD APIs, and ISR caching on Next.js 16. *(Next.js, Three.js, React, MongoDB Atlas)*
+- **[Qualitone](https://qualitone.in)** ([GitHub](https://github.com/mrKESHAV2004/QA-Platform)) — Universal test management and defect tracking platform. Features nested test suites, multi-environment execution matrices, and strict 4-Eyes QA verification across 8 RBAC roles. *(React, Vite, Node.js, Express, Supabase Postgres RLS)*
+- **[Krotox Engine](https://krotox.com)** ([GitHub](https://github.com/mrKESHAV2004/Engine)) — High-performance real-time 3D game engine and renderer. Built with Vulkan render passes, command buffer allocation, scene hierarchy DAGs, and camera frustum culling. *(C++20, Vulkan API, GLSL, CMake)*
 
 ---
 
 ### 💻 Tech Stack
 
-- **Languages & Systems:** C++, Python, JavaScript, TypeScript, C#, SQL
-- **Graphics & Frontend:** Vulkan API, Three.js, WebGL, React, Next.js, Tailwind CSS, Vite
-- **Backend & Cloud:** Node.js, Express, ASP.NET Core, Flask, PostgreSQL, MongoDB, Supabase, AWS
-- **DevOps & Tooling:** Docker, Kubernetes, Jenkins, Git, Linux, Swagger / OpenAPI, Postman
+#### Languages & Systems
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Graphics & Frontend
+![Vulkan](https://img.shields.io/badge/Vulkan-RED?style=for-the-badge&logo=vulkan&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+#### Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### DevOps, AI & Tooling
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -44,19 +76,19 @@ Building **game engines**, **cloud optimization tools**, and **scalable full-sta
 <div align="center">
 
 <!-- Commit Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrKESHAV2004&theme=github-compact&custom_title=Commit%20%26%20Contribution%20Trajectory%20(Public%20%2B%20Private)&hide_border=true&area=true&color=2dd4bf" width="100%" alt="Commit Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrKESHAV2004&theme=nord&custom_title=Commit%20%26%20Contribution%20Trajectory%20(Public%20%2B%20Private)&hide_border=true&area=true&color=88c0d0" width="100%" alt="Commit Activity Graph" />
 
 <br/><br/>
 
 <!-- Profile Summary & Streak Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrKESHAV2004&theme=tokyonight" alt="Profile Details" height="195" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrKESHAV2004&theme=nord" alt="Profile Details" height="195" />
 &nbsp;
-<img src="https://streak-stats.demolab.com/?user=mrKESHAV2004&theme=tokyonight&hide_border=true" alt="Streak Stats" height="195" />
+<img src="https://streak-stats.demolab.com/?user=mrKESHAV2004&theme=nord&hide_border=true" alt="Streak Stats" height="195" />
 
 <br/><br/>
 
 <!-- Language Breakdown Donut -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrKESHAV2004&theme=tokyonight" alt="Languages Breakdown" height="195" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrKESHAV2004&theme=nord" alt="Languages Breakdown" height="195" />
 
 <br/><br/>
 
