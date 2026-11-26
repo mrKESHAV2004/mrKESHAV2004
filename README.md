@@ -1,9 +1,26 @@
-# Keshav Shrimali
+<div align="center">
 
-### Software Engineer & Systems Architect 👋
-Building **game engines**, **cloud optimization tools**, and **scalable full-stack products**.
+<!-- Nord Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2e3440,100:3b4252&height=140&section=header&text=Keshav%20Shrimali&fontSize=38&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Systems%20Architect&descAlignY=66&descSize=14&fontColor=eceff4&stroke=88c0d0&strokeWidth=1.5" width="100%" alt="Keshav Shrimali" />
 
-[Portfolio](https://www.keshavshrimali.com) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/keshav-shrimali-5a3259256/) &nbsp;•&nbsp; [GitHub](https://github.com/mrKESHAV2004) &nbsp;•&nbsp; [X / Twitter](https://x.com/@KeshavShrimali) &nbsp;•&nbsp; [Email](mailto:shrimalikeshav4@gmail.com)
+<p align="center">
+  Building <b>game engines</b>, <b>cloud optimization tools</b>, and <b>scalable full-stack products</b>.
+</p>
+
+<!-- Unified Flat-Square Social Badges (Nord Theme) -->
+<p align="center">
+  <a href="https://www.keshavshrimali.com"><img src="https://img.shields.io/badge/Portfolio-keshavshrimali.com-2e3440?style=flat-square&logo=firefox&logoColor=88c0d0" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/keshav-shrimali-5a3259256/"><img src="https://img.shields.io/badge/LinkedIn-Keshav_Shrimali-2e3440?style=flat-square&logo=linkedin&logoColor=88c0d0" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/mrKESHAV2004"><img src="https://img.shields.io/badge/GitHub-mrKESHAV2004-2e3440?style=flat-square&logo=github&logoColor=88c0d0" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://x.com/@KeshavShrimali"><img src="https://img.shields.io/badge/X-@KeshavShrimali-2e3440?style=flat-square&logo=x&logoColor=88c0d0" alt="X" /></a>
+  &nbsp;
+  <a href="mailto:shrimalikeshav4@gmail.com"><img src="https://img.shields.io/badge/Email-shrimalikeshav4%40gmail.com-2e3440?style=flat-square&logo=gmail&logoColor=88c0d0" alt="Email" /></a>
+</p>
+
+</div>
 
 ---
 
