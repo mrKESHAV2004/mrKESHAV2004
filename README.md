@@ -1,52 +1,62 @@
 <div align="center">
 
-<!-- Nord Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2e3440,100:3b4252&height=140&section=header&text=Keshav%20Shrimali&fontSize=38&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Systems%20Architect&descAlignY=66&descSize=14&fontColor=eceff4&stroke=88c0d0&strokeWidth=1.5" width="100%" alt="Keshav Shrimali" />
+# Keshav Shrimali
+### Systems Architect & Software Engineer
 
-<p align="center">
-  Building <b>game engines</b>, <b>cloud optimization tools</b>, and <b>scalable full-stack products</b>.
-</p>
+C++20 / Vulkan Graphics &nbsp;•&nbsp; Autonomous Cloud FinOps &nbsp;•&nbsp; Distributed Web Platforms
 
-<!-- Unified Flat-Square Social Badges (Nord Theme) -->
-<p align="center">
-  <a href="https://www.keshavshrimali.com"><img src="https://img.shields.io/badge/Portfolio-keshavshrimali.com-2e3440?style=flat-square&logo=firefox&logoColor=88c0d0" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/keshav-shrimali-5a3259256/"><img src="https://img.shields.io/badge/LinkedIn-Keshav_Shrimali-2e3440?style=flat-square&logo=linkedin&logoColor=88c0d0" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://github.com/mrKESHAV2004"><img src="https://img.shields.io/badge/GitHub-mrKESHAV2004-2e3440?style=flat-square&logo=github&logoColor=88c0d0" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://x.com/@KeshavShrimali"><img src="https://img.shields.io/badge/X-@KeshavShrimali-2e3440?style=flat-square&logo=x&logoColor=88c0d0" alt="X" /></a>
-  &nbsp;
-  <a href="mailto:shrimalikeshav4@gmail.com"><img src="https://img.shields.io/badge/Email-shrimalikeshav4%40gmail.com-2e3440?style=flat-square&logo=gmail&logoColor=88c0d0" alt="Email" /></a>
-</p>
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-keshavshrimali.com-2e3440?style=flat-square&logo=firefox&logoColor=88c0d0)](https://www.keshavshrimali.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keshav_Shrimali-2e3440?style=flat-square&logo=linkedin&logoColor=88c0d0)](https://www.linkedin.com/in/keshav-shrimali-5a3259256/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-mrKESHAV2004-2e3440?style=flat-square&logo=github&logoColor=88c0d0)](https://github.com/mrKESHAV2004)
+&nbsp;
+[![X (Twitter)](https://img.shields.io/badge/X-@KeshavShrimali-2e3440?style=flat-square&logo=x&logoColor=88c0d0)](https://x.com/@KeshavShrimali)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-shrimalikeshav4%40gmail.com-2e3440?style=flat-square&logo=gmail&logoColor=88c0d0)](mailto:shrimalikeshav4@gmail.com)
 
 </div>
 
 ---
 
-### 💫 About Me
+## ⚡ Profile & Engineering Background
 
-- 🎓 **Academics:** Final-year B.Tech in Computer Science & Engineering at **JIET Jodhpur** (2022–2026, **8.45 / 10 CGPA**).
-- 🔭 **Current Focus:** C++ / Vulkan graphics rendering pipelines, automated cloud cost governance, and distributed systems.
-- 💼 **Industry Experience:**
-  - **Software Developer Intern** at *Indian Rocketry Association* — built propulsion simulation software in Python & PyQt5 with a $\le 0.3\%$ calculation error margin.
-  - **Full Stack Intern** at *ENTRPI* — engineered microlearning features and responsive workflows in React, Node.js, and Express.
-  - **Digitalization Intern** at *Larsen & Toubro (L&T SSHF)* — built enterprise tracking pipelines and data models with ASP.NET MVC and SQL Server.
-- 🌐 **Interactive Portfolio:** Editorial studio and real-time 3D WebGL island live at [**keshavshrimali.com**](https://www.keshavshrimali.com).
+Final-year B.Tech in Computer Science & Engineering at **JIET Jodhpur** (2022–2026, **8.45 / 10 CGPA**). My work centers on high-reliability systems: low-level graphics pipelines, automated cloud cost governance, and full-stack platforms with strict type guarantees.
 
----
-
-### 🚀 Featured Projects
-
-- **[Autonomous-FinOps](https://github.com/mrKESHAV2004/Autonomous-FinOps)** — AI-driven cloud cost optimization engine. Deploys Isolation Forests and LSTM time-series models to detect "zombie" resources and forecast spending from AWS billing telemetry. *(Python, TensorFlow, Flask, AWS API, Docker)*
-- **[Qualitone](https://qualitone.in)** ([GitHub](https://github.com/mrKESHAV2004/QA-Platform)) — Universal test management and defect tracking platform. Features nested test suites, multi-environment execution matrices, and strict 4-Eyes QA verification across 8 RBAC roles. *(React, Vite, Node.js, Express, Supabase Postgres RLS)*
-- **[Krotox Engine](https://krotox.com)** ([GitHub](https://github.com/mrKESHAV2004/Engine)) — High-performance real-time 3D game engine and renderer. Built with Vulkan render passes, command buffer allocation, scene hierarchy DAGs, and camera frustum culling. *(C++20, Vulkan API, GLSL, CMake)*
+- **Indian Rocketry Association** — *Software Developer Intern*  
+  Engineered desktop computation modules in Python & PyQt5 to simulate rocket motor propulsion performance and burn curves, replacing manual calculation steps with a verified **$\le 0.3\%$ numerical error margin**.
+- **ENTRPI** — *Full Stack Intern*  
+  Built microlearning web modules, user auth flows, and state management pipelines using React, Node.js, and Express REST APIs.
+- **Larsen & Toubro (L&T SSHF)** — *Digitalization Intern*  
+  Designed enterprise tracking software and relational schema architectures using ASP.NET MVC and Microsoft SQL Server to digitize physical workshop ledgers.
+- **Interactive Portfolio:** Editorial studio and real-time 3D WebGL island live at [**keshavshrimali.com**](https://www.keshavshrimali.com).
 
 ---
 
-### 💻 Tech Stack
+## 🛠️ Flagship Systems
 
-#### Languages & Systems
+### [Autonomous-FinOps](https://github.com/mrKESHAV2004/Autonomous-FinOps)
+**AI-Powered Cloud Waste Detection & Cost Forecasting**  
+Unsupervised anomaly detection (Isolation Forests) and LSTM time-series forecasters trained on continuous AWS Cost Explorer billing telemetry to detect and remediate orphaned "zombie" cloud resources without operational downtime.  
+`Python` • `TensorFlow` • `Flask` • `AWS Cost Explorer API` • `Docker`
+
+### [Qualitone](https://qualitone.in)
+**Enterprise Test Management & Verified Defect Lifecycle Engine**  
+Universal QA platform supporting multi-environment execution matrices (Web, Mobile, Desktop, API), nested test suites, and an integrated Super Admin OpenAPI 3.0 console. Enforces a strict 4-Eyes QA verification policy across 8 granular RBAC workspace roles backed by PostgreSQL Row-Level Security (RLS).  
+`React` • `Vite` • `Node.js` • `Express` • `Supabase Postgres RLS` • `Tailwind CSS`
+
+### [Krotox](https://krotox.com)
+**C++20 / Vulkan Real-Time 3D Game Engine & Renderer**  
+Custom real-time rendering architecture built directly on the Vulkan API. Features explicit multi-threaded command buffer allocation, scene hierarchy DAGs, uniform buffer abstractions, camera frustum culling, and GLSL shader pipelines.  
+`C++20` • `Vulkan API` • `GLSL` • `CMake` • `GLFW` • `GLM`
+
+---
+
+## 💻 Tech Stack & Technical Competencies
+
+### Languages & Systems
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -56,7 +66,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Graphics & Frontend
+### Graphics & Frontend
 ![Vulkan](https://img.shields.io/badge/Vulkan-RED?style=for-the-badge&logo=vulkan&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -64,7 +74,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-#### Backend & Cloud
+### Backend & Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -74,7 +84,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### DevOps, AI & Tooling
+### DevOps, AI & Tooling
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -86,7 +96,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 > **Note on Commit Activity:** Metrics include verified contributions across both public open-source initiatives and private enterprise repositories (Larsen & Toubro SSHF, Indian Rocketry Association, ENTRPI, client platforms, and internal engine modules).
 
