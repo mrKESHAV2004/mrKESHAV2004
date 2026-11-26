@@ -1,33 +1,66 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0f172a,100:022c22&height=200&section=header&text=Keshav%20Shrimali&fontSize=44&fontAlignY=36&desc=Systems%20Programming%20%E2%80%A2%20Game%20Engines%20%E2%80%A2%20Autonomous%20Cloud%20Platforms&descAlignY=58&descSize=15&fontColor=ffffff&stroke=2dd4bf&strokeWidth=1" width="100%" alt="Keshav Shrimali Header" />
+<!-- Hero Banner (Slate-to-Emerald Gradient with Accent Line) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,40:0b1324,80:064e3b,100:042f2e&height=220&section=header&text=Keshav%20Shrimali&fontSize=48&fontAlignY=36&desc=Systems%20Programming%20%E2%80%A2%20Game%20Engines%20%E2%80%A2%20Autonomous%20Cloud%20Platforms&descAlignY=58&descSize=15&fontColor=ffffff&stroke=2dd4bf&strokeWidth=1.5" width="100%" alt="Keshav Shrimali — Software Engineer & Systems Architect" />
 
-<!-- Dynamic Animated Typing Subheading -->
+<!-- Dynamic Animated Typing Headline -->
 <a href="https://www.keshavshrimali.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Software+Engineer+%26+Systems+Architect;Building+C%2B%2B%2FVulkan+Real-Time+Game+Engines;Autonomous+FinOps+%26+Deep+Learning+Cloud+Optimization;Universal+QA+Test+Management+%26+Defect+Lifecycle+Platforms;Full-Stack+Architectures+with+Strict+Type-Safety" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=720&lines=Software+Engineer+%26+Systems+Architect;Building+C%2B%2B%2FVulkan+Real-Time+Game+Engines;Autonomous+FinOps+%26+Deep+Learning+Cloud+Optimization;Universal+QA+Test+Management+%26+Defect+Lifecycle+Platforms;High-Performance+Distributed+Full-Stack+Architectures" alt="Typing Headline" />
 </a>
 
-<br/>
+<!-- Quick Status & Vitals Pill Row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_Software_Engineering_Roles-064e3b?style=flat-square&logo=git&logoColor=2dd4bf" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Education-B.Tech_CSE_@_JIET_(8.45_CGPA)-0f172a?style=flat-square&logo=academia&logoColor=2dd4bf" alt="Education" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Experience-IRA_%E2%80%A2_ENTRPI_%E2%80%A2_L%26T-0f172a?style=flat-square&logo=target&logoColor=2dd4bf" alt="Experience" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-India-0f172a?style=flat-square&logo=googlemaps&logoColor=2dd4bf" alt="Location" />
+</p>
 
-<!-- Social & Portfolio Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-keshavshrimali.com-0f172a?style=for-the-badge&logo=firefox&logoColor=%232DD4BF)](https://www.keshavshrimali.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keshav_Shrimali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-shrimali-5a3259256/)
-[![GitHub](https://img.shields.io/badge/GitHub-mrKESHAV2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrKESHAV2004)
-[![X (Twitter)](https://img.shields.io/badge/X-@KeshavShrimali-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@KeshavShrimali)
-[![Email](https://img.shields.io/badge/Email-shrimalikeshav4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrimalikeshav4@gmail.com)
+<!-- Connected Channels Bar -->
+<p align="center">
+  <a href="https://www.keshavshrimali.com"><img src="https://img.shields.io/badge/Live_Portfolio-keshavshrimali.com-0f172a?style=for-the-badge&logo=firefox&logoColor=2DD4BF" alt="Live Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/keshav-shrimali-5a3259256/"><img src="https://img.shields.io/badge/LinkedIn-Keshav_Shrimali-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/mrKESHAV2004"><img src="https://img.shields.io/badge/GitHub-mrKESHAV2004-0f172a?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://x.com/@KeshavShrimali"><img src="https://img.shields.io/badge/X-@KeshavShrimali-0f172a?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" /></a>
+  &nbsp;
+  <a href="mailto:shrimalikeshav4@gmail.com"><img src="https://img.shields.io/badge/Email-shrimalikeshav4%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+</p>
 
 </div>
 
+<!-- Core Architectural Pillars -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33.3%" valign="top">
+      <h3 align="center">🎮 Graphics & Systems</h3>
+      <p align="center"><sub>Low-level C++20, Vulkan API rendering pipelines, GLSL compute/fragment shaders, camera frustum culling, and decoupled engine memory allocators.</sub></p>
+    </td>
+    <td align="center" width="33.3%" valign="top">
+      <h3 align="center">☁️ Cloud & AI FinOps</h3>
+      <p align="center"><sub>LSTM time-series forecasting, Isolation Forest anomaly models, and autonomous AWS billing agents for zero-downtime cloud waste remediation.</sub></p>
+    </td>
+    <td align="center" width="33.3%" valign="top">
+      <h3 align="center">⚡ Enterprise Platforms</h3>
+      <p align="center"><sub>Next.js 16, Three.js 3D WebGL Island, Express REST APIs, Supabase Postgres RLS, and 4-Eyes verified defect lifecycle platforms.</sub></p>
+    </td>
+  </tr>
+</table>
+
 ---
 
-## ⚡ Engineering Overview
+## ⚡ About & Engineering Philosophy
 
-I am a software engineer focused on **systems programming, game engines, and full-stack cloud platforms**. My work connects technical precision with production reliability—building everything from rocket motor computation modules with rigorous mathematical accuracy to machine learning engines for automated cloud cost control and real-time graphics pipelines.
+> I build software where **mathematical precision meets production reliability**—ranging from propulsion simulation algorithms for rocket motors with a verified **$\le 0.3\%$ numerical error margin** to deep-learning-driven cloud financial operations and real-time 3D graphics engines.
 
-- 🎓 **Education:** Final-year B.Tech in Computer Science & Engineering, **Jodhpur Institute of Engineering & Technology (JIET)**, 2022–2026 (**CGPA: 8.45 / 10**).
-- 🔭 **Current Focus Areas:** Low-level Vulkan rendering architectures, unsupervised anomaly detection in cloud infrastructure, and type-safe distributed web platforms.
-- 🌐 **Interactive Portfolio:** Explore my live editorial site and WebGL-powered 3D island at [**keshavshrimali.com**](https://www.keshavshrimali.com).
+- 🎓 **Academics:** Final-year B.Tech in Computer Science & Engineering at **JIET Jodhpur** (2022–2026), graduating with a cumulative **8.45 / 10 CGPA**.
+- 🛠️ **Core Philosophy:** Build from fundamentals up—prefer strict type safety, zero-overhead abstractions, deterministic architectures, and clean interface ergonomics.
+- 🌐 **Interactive WebGL Island:** Explore my editorial portfolio and 3D playable island live at [**keshavshrimali.com**](https://www.keshavshrimali.com).
 
 ---
 
