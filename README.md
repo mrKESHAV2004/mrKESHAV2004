@@ -150,14 +150,15 @@ I am a software engineer focused on **systems programming, game engines, and ful
 
 <br/><br/>
 
-<!-- Stats & Streak Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=mrKESHAV2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="175" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=mrKESHAV2004&theme=tokyonight&hide_border=true" alt="Streak Stats" height="175" />
+<!-- Profile Summary & Streak Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrKESHAV2004&theme=tokyonight" alt="Profile Details & Contributions" height="195" />
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=mrKESHAV2004&theme=tokyonight&hide_border=true" alt="Streak Stats" height="195" />
 
-<br/>
+<br/><br/>
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrKESHAV2004&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="165" />
+<!-- Repos per Language Breakdown -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrKESHAV2004&theme=tokyonight" alt="Top Languages Breakdown" height="195" />
 
 <br/><br/>
 
