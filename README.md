@@ -1,19 +1,117 @@
-# 💫 About Me:
-### Hi there! I'm Keshav Shrimali 👋<br>
-I am a final-year B.Tech Computer Science student passionate about **Full Stack Development** and **DevOps**. I love building scalable solutions—from rocket motor calculation software to microlearning platforms.<br><br>- 🔭 **I’m currently working on:** A project on **Autonomous FinOps: AI-Powered Cloud Cost Optimization**.<br>- 💼 **Experience:**<br>  - **Software Developer Intern** at Indian Rocketry Association (PyQt5, Computation Modules).<br>  - **Full Stack Intern** at ENTRPI (React, Node.js).<br>  - **Digitalization Intern** at L&T (ASP.NET, SQL Server).<br>- 🛠 **Tech Stack:**<br>  - **Languages:** JavaScript, Python<br>  - **Frontend:** React, Tailwind CSS, Three.js<br>  - **Backend:** Node.js, Express, MongoDB, Firebase<br>  - **DevOps:** Docker, Kubernetes, Jenkins, AWS, CI/CD<br>- 🚀 **Fun Fact:** I once replaced a manual pen-and-paper process for rocket motor calculations with a Python app that has a ≤0.3% error margin!<br>
+<div align="center">
 
+# 💫 Hi there, I'm Keshav Shrimali 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k_shrims) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-shrimali-5a3259256/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KeshavShrimali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrimalikeshav4@gmail.com) 
+**Software Engineer & Systems Enthusiast**  
+*Building Game Engines, Cloud Automation Tools, and Scalable Full-Stack Products.*
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrKESHAV2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mrKESHAV2004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrKESHAV2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-keshavshrimali.com-black?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://www.keshavshrimali.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keshav_Shrimali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-shrimali-5a3259256/)
+[![GitHub](https://img.shields.io/badge/GitHub-mrKESHAV2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrKESHAV2004)
+[![X](https://img.shields.io/badge/X-@KeshavShrimali-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@KeshavShrimali)
+[![Email](https://img.shields.io/badge/Email-shrimalikeshav4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrimalikeshav4@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mrKESHAV2004&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## 🚀 About Me
+
+- 🎓 **Education:** Final-year B.Tech in Computer Science at **JIET Jodhpur** (2022–2026, **8.45 CGPA**).
+- 🔭 **Current Focus:** AI-driven cloud optimization, C++ / Vulkan graphics engines, and high-performance full-stack architectures.
+- 💡 **Passion:** Bridging engineering rigor with intuitive user experiences—from rocket propulsion simulation algorithms with $\le 0.3\%$ error margins to real-time 3D WebGL environments and multi-tier enterprise systems.
+- 🌐 **Interactive Portfolio:** Explore my editorial site and 3D playable island at [**keshavshrimali.com**](https://www.keshavshrimali.com).
+
+---
+
+## 💼 Experience
+
+- 🚀 **Software Developer Intern** — *Indian Rocketry Association*  
+  Built high-precision calculation modules and desktop computation software using Python & PyQt5 to simulate rocket motor propulsion performance, reducing manual calculation errors to $\le 0.3\%$.
+- 💻 **Full Stack Intern** — *ENTRPI*  
+  Engineered dynamic web features and microlearning workflows using React, Node.js, Express, and REST APIs.
+- 🏢 **Digitalization Intern** — *Larsen & Toubro (L&T SSHF)*  
+  Architected enterprise digitalization workflows and inventory tracking modules using ASP.NET MVC and Microsoft SQL Server.
+
+---
+
+## 🛠️ Featured Projects
+
+### ☁️ [Autonomous-FinOps](https://github.com/mrKESHAV2004/Autonomous-FinOps)
+**AI-Powered Cloud Cost Optimization & Zombie Infrastructure Detection**  
+- Deploys unsupervised learning (Isolation Forests) and deep learning (LSTM forecasters) to detect orphaned cloud assets and predict spending spikes.
+- Integrates continuous AWS billing telemetry with automated reporting agents to eliminate cloud waste without service interruption.
+
+### 🎯 [Qualitone (QA Management Platform)](https://github.com/mrKESHAV2004/QA-Platform)
+**Enterprise Universal Test Management & Verified Defect Lifecycle Engine**  
+- Multi-tier platform (React client, Express API, Supabase Postgres with RLS, Super Admin OpenAPI/Swagger console).
+- Features nested test suites, multi-environment matrix tracking, and a strict 4-Eyes verified fix lifecycle with 8 granular workspace roles.
+
+### 🎮 [Real-Time Game Engine & Renderer](https://github.com/mrKESHAV2004/Engine)
+**C++ & Vulkan High-Performance Graphics Architecture**  
+- Custom game engine featuring cross-platform Vulkan rendering pipelines, scene hierarchy graphs, camera frustum culling, and shader abstraction modules.
+
+### 🌐 [3D Interactive Portfolio Island](https://github.com/mrKESHAV2004/PORTFOLIO_MAIN)
+**Gamified WebGL Experience & Editorial Studio**  
+- Next.js application featuring client-side WebGL 3D island navigation (Three.js), dynamic studio mode, and MongoDB-backed content distribution.
+
+---
+
+## 💻 Tech Stack
+
+### Languages & Systems
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Graphics, 3D & Frontend
+![Vulkan](https://img.shields.io/badge/Vulkan-RED?style=for-the-badge&logo=vulkan&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend, Databases & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+
+### DevOps, AI & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mrKESHAV2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Keshav's GitHub stats" height="175" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=mrKESHAV2004&theme=tokyonight&hide_border=true" alt="Keshav's streak stats" height="175" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrKESHAV2004&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Visitors count: <img src="https://visitcount.itsvg.in/api?id=mrKESHAV2004&icon=0&color=4" alt="Visitor Count" /></sub>
+</div>
